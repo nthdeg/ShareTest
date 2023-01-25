@@ -1,6 +1,6 @@
 # GOATS R US
 
-This is the G.O.A.T. Manual 
+This is the G.O.A.T. Manual, it has been changed
 
 - this goat is brown
 - this goat has horns
